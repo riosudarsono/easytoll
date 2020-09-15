@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MARGIN PADDING --> <dimen name="dp_4">4dp</dimen>
+    <!-- HALF --> <dimen name="dp_8">8dp</dimen>
+    <!-- DEFAULT --> <dimen name="dp_16">16dp</dimen>
+
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="dp_200">200dp</dimen>
+    <dimen name="dp_250">250dp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+
+    <dimen name="text_size_xsmall">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_action_bar">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_xxxlarge">26sp</dimen>
+    <dimen name="double_text_size">28sp</dimen>
+    <dimen name="double_text_size_xlarge">34sp</dimen>
+</resources>

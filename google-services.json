@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468951119213",
+    "firebase_url": "https://easytoll-daf38.firebaseio.com",
+    "project_id": "easytoll-daf38",
+    "storage_bucket": "easytoll-daf38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468951119213:android:f629188ab87c15eb1d1664",
+        "android_client_info": {
+          "package_name": "com.arman.easytoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468951119213-otvs31flscpe8oup74igiat73spmjn0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arman.easytoll",
+            "certificate_hash": "8e60e8d74fc7e2f71627e210f5616e21e5de1c36"
+          }
+        },
+        {
+          "client_id": "468951119213-8f5703tnufjt1ncvhr3mnj28nc6jddul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXQNjaipW-Meb_zvBBjIasjhk9SZLXfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468951119213-8f5703tnufjt1ncvhr3mnj28nc6jddul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
