@@ -6,4 +6,34 @@
     <string name="google">Google</string>
     <string name="login_with_google">Login with Google</string>
     <string name="error_message">Terjadi Kesalahan</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="transaction">Transaction</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="no_card">Nomor Kartu</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna nulla, pellentesque vitae metus vel, ullamcorper auctor est.</string>
+    <string name="lorem_ipsum2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna nulla, pellentesque vitae metus vel, ullamcorper auctor est.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna nulla, pellentesque vitae metus vel, ullamcorper auctor est.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna nulla, pellentesque vitae metus vel, ullamcorper auctor est.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna nulla, pellentesque vitae metus vel, ullamcorper auctor est.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec magna nulla, pellentesque vitae metus vel, ullamcorper auctor est.</string>
+    <string name="cancel">Cancel</string>
+    <string name="cek_saldo_uang_elektronik">Cek Saldo Uang Elektronik</string>
+    <string name="jenis_kartu">Jenis Kartu</string>
+    <string name="nomor_kartu">Nomor Kartu</string>
+    <string name="cek_saldo">Cek Saldo</string>
+    <string name="register">Register</string>
+    <string name="daftar">Daftar</string>
+    <string name="informasi_kartu">Informasi Kartu</string>
+    <string name="empty_data">Tidak Ada Data</string>
+    <string name="saldo_kartu">Saldo Kartu</string>
+    <string name="top_up">Top Up</string>
+    <string name="rupiah">"Rp %s"</string>
+    <string name="nominal">Nominal</string>
+    <string name="bayar">Bayar</string>
+    <string name="history_transaksi">History Transaksi</string>
+    <string name="tutup">Tutup</string>
+
+
 </resources>

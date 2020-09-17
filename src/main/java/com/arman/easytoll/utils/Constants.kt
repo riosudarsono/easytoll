@@ -16,4 +16,9 @@ object Constants {
     const val PREF_AVATAR = "pref_avatar"
     const val PREF_IS_LOGIN = "pref_is_login"
 
+    const val CARD = "card"
+    const val HISTORY = "history"
+
+    const val TOPUP = "TopUp"
+
 }

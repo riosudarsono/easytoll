@@ -73,6 +73,7 @@ class LoginActivity : AppCompatActivity(), BaseApp.Listener {
             val signInIntent: Intent? = googleSignInClient?.signInIntent
             startActivityForResult(signInIntent, REQ_LOGIN_GOOGLE)
         }
+        tv_register.setOnClickListener { startActivity(Intent(this, RegisterActivity::class.java)) }
     }
 
     override fun setAdapter() {

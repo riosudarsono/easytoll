@@ -23,6 +23,9 @@ class UserManager @Inject constructor(
     val token: String get() = storage.getString(Constants.PREF_TOKEN)
     val isLogin: Boolean get() = storage.getBoolean(Constants.PREF_IS_LOGIN)
     val name: String get() = storage.getString(Constants.PREF_NAME)
+    val email: String get() = storage.getString(Constants.PREF_EMAIL)
+    val photo: String get() = storage.getString(Constants.PREF_AVATAR)
+    val id: String get() = storage.getString(Constants.PREF_ID)
 
     fun setNumberOtp(number: String) {userDataRepository.setPhoneNumber(number)}
     fun setOtpID(otpID: String) {userDataRepository.setOtpID(otpID)}
